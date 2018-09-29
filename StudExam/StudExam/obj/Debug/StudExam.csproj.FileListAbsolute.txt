@@ -1,0 +1,7 @@
+D:\Programing\C#\StudExam\StudExam\bin\Debug\StudExam.exe.config
+D:\Programing\C#\StudExam\StudExam\bin\Debug\StudExam.exe
+D:\Programing\C#\StudExam\StudExam\bin\Debug\StudExam.pdb
+D:\Programing\C#\StudExam\StudExam\obj\Debug\StudExam.csprojAssemblyReference.cache
+D:\Programing\C#\StudExam\StudExam\obj\Debug\StudExam.csproj.CoreCompileInputs.cache
+D:\Programing\C#\StudExam\StudExam\obj\Debug\StudExam.exe
+D:\Programing\C#\StudExam\StudExam\obj\Debug\StudExam.pdb

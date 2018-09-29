@@ -1,0 +1,7 @@
+D:\Programing\C#\Shop\Shop\bin\Debug\Shop.exe.config
+D:\Programing\C#\Shop\Shop\bin\Debug\Shop.exe
+D:\Programing\C#\Shop\Shop\bin\Debug\Shop.pdb
+D:\Programing\C#\Shop\Shop\obj\Debug\Shop.csprojAssemblyReference.cache
+D:\Programing\C#\Shop\Shop\obj\Debug\Shop.csproj.CoreCompileInputs.cache
+D:\Programing\C#\Shop\Shop\obj\Debug\Shop.exe
+D:\Programing\C#\Shop\Shop\obj\Debug\Shop.pdb

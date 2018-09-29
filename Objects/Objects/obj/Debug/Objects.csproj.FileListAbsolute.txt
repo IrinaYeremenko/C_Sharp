@@ -1,0 +1,7 @@
+D:\Programing\C#\Objects\Objects\bin\Debug\Objects.exe.config
+D:\Programing\C#\Objects\Objects\bin\Debug\Objects.exe
+D:\Programing\C#\Objects\Objects\bin\Debug\Objects.pdb
+D:\Programing\C#\Objects\Objects\obj\Debug\Objects.csprojAssemblyReference.cache
+D:\Programing\C#\Objects\Objects\obj\Debug\Objects.csproj.CoreCompileInputs.cache
+D:\Programing\C#\Objects\Objects\obj\Debug\Objects.exe
+D:\Programing\C#\Objects\Objects\obj\Debug\Objects.pdb

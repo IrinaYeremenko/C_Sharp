@@ -1,0 +1,7 @@
+C:\Users\Irina\source\repos\Chemistry\Chemistry\bin\Debug\Chemistry.exe.config
+C:\Users\Irina\source\repos\Chemistry\Chemistry\bin\Debug\Chemistry.exe
+C:\Users\Irina\source\repos\Chemistry\Chemistry\bin\Debug\Chemistry.pdb
+C:\Users\Irina\source\repos\Chemistry\Chemistry\obj\Debug\Chemistry.csprojAssemblyReference.cache
+C:\Users\Irina\source\repos\Chemistry\Chemistry\obj\Debug\Chemistry.csproj.CoreCompileInputs.cache
+C:\Users\Irina\source\repos\Chemistry\Chemistry\obj\Debug\Chemistry.exe
+C:\Users\Irina\source\repos\Chemistry\Chemistry\obj\Debug\Chemistry.pdb
